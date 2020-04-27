@@ -1,4 +1,5 @@
 dependencies:
      - numpy
      - pandas
+     - matplotlib
 
